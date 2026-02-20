@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
-<a href="https://www.linkedin.com/in/[www.linkedin.com/in/taraji-hillard-8080a73b2]/">
+<a href="https://www.linkedin.com/in/www.linkedin.com/in/taraji-hillard-8080a73b2/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 </div>
