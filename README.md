@@ -62,8 +62,8 @@ I'm currently a fellow in the **Coding Careers Full Stack Web Development** prog
       <br>React
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/sql-icon.svg" alt="icon" width="65" height="65" />
-      <br>SQL
+      <img src="https://skillicons.dev/icons?i=postgresql" alt="icon" width="65" height="65" />
+      <br>PostgreSQL
     </td>
   </tr>
   <tr>
